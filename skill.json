@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-channel-auditor",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Channel Auditor - Cooperative game Shapley value and Markov chain touchpoint auditor with incrementality lift testing.",
+  "tools": [
+    "compute_shapley_attribution",
+    "compute_markov_removal_effects",
+    "audit_incrementality_lift"
+  ]
+}
